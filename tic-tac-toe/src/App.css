@@ -81,4 +81,10 @@
   margin: auto;
   width: 564px;
   display: flex;
+  filter: drop-shadow( 0 0 10px rgb(125, 100, 125));
+}
+
+.boxes img{
+  margin: 50px;
+  filter: drop-shadow(0 5px 10px rgb(6, 31, 222));
 }
